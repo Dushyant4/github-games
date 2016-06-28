@@ -2,6 +2,8 @@
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
+Updated the Readme file.
+
 You can play the game at: http://githubschool.github.io/github-games/
 
 Here is how you play the game:
